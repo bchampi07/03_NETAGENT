@@ -11,10 +11,12 @@ local. Debe usarse únicamente en redes y equipos autorizados.
 
 | N.º | Apellidos y nombres |
 |-----|---------------------|
-| 1   | _Completar_         |
-| 2   | _Completar_         |
-| 3   | _Completar_         |
-| 4   | _Completar_         |
+| 1   | _AITA CANSAYA JOSE ANDRES_         |
+| 2   | _ALVAREZ BARRIGA SEBASTIAN ANTONIO_         |
+| 3   | _CHAMPI HUAMANI BRALY CARLO ANDRE_         |
+| 4   | _HURTADO RAMOS SERGIO ADRIANO_         |
+| 5   | _VALVERDE REY MILWARD JOAQUIN_         |
+
 
 ## Tecnologías utilizadas
 
@@ -38,8 +40,8 @@ NET AGENT no usa variables de entorno ni archivo `.env`.
 1. Descargue el repositorio (*Code → Download ZIP*) y extráigalo, o clónelo:
 
    ```
-   git clone https://github.com/USUARIO_GITHUB/NN_NETAGENT.git
-   cd NN_NETAGENT
+   git clone https://github.com/bchampi07/03_NETAGENT.git
+   cd 03_NETAGENT
    ```
 
 2. Desde CMD, en la carpeta que contiene `app.py` y `requirements.txt`:
